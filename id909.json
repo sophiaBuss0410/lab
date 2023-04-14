@@ -1,0 +1,1237 @@
+{
+    "url": "",
+    "tree_id": 909,
+    "u": "https://www.dfrome.com/select?id=909",
+    "memo": "理工系進学女性を増やす\n森原ブリッジ",
+    "refs": "",
+    "bookmark": false,
+    "username": "soph",
+    "name": "Women Scientist/Engineer #minority #phasex",
+    "data": {
+        "arrows": {
+            "hasReason": [],
+            "hasEffect": [],
+            "hasArtifactsOnly": [
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 270,
+                        "listId": 1,
+                        "stageX": 1455.999986770391,
+                        "stageY": 489.9994682359754
+                    },
+                    "memo": "",
+                    "i2": 3,
+                    "d1": {
+                        "width": 102,
+                        "listId": 1,
+                        "stageX": 1638.9999806988315,
+                        "stageY": 744.0004873461471
+                    },
+                    "visible": true,
+                    "id": 1,
+                    "i1": 5
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 348,
+                        "listId": 1,
+                        "stageX": 1147.0000366210913,
+                        "stageY": 437.9992953344661
+                    },
+                    "memo": "",
+                    "i2": 11,
+                    "d1": {
+                        "width": 270,
+                        "listId": 1,
+                        "stageX": 1455.999986770391,
+                        "stageY": 489.9994682359754
+                    },
+                    "visible": true,
+                    "id": 2,
+                    "i1": 3
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 272,
+                        "listId": 1,
+                        "stageX": 1448,
+                        "stageY": 247.999495606143
+                    },
+                    "memo": "",
+                    "i2": 10,
+                    "d1": {
+                        "width": 224,
+                        "listId": 1,
+                        "stageX": 1290.999999680444,
+                        "stageY": 363.99963136238944
+                    },
+                    "visible": true,
+                    "id": 3,
+                    "i1": 2
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 181,
+                        "listId": 1,
+                        "stageX": 1755,
+                        "stageY": 247.99940817787447
+                    },
+                    "memo": "",
+                    "i2": 12,
+                    "d1": {
+                        "width": 224,
+                        "listId": 1,
+                        "stageX": 1290.999999680444,
+                        "stageY": 363.99963136238944
+                    },
+                    "visible": true,
+                    "id": 4,
+                    "i1": 2
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 272,
+                        "listId": 1,
+                        "stageX": 1448,
+                        "stageY": 247.999495606143
+                    },
+                    "memo": "",
+                    "i2": 10,
+                    "d1": {
+                        "width": 181,
+                        "listId": 1,
+                        "stageX": 1594.000004090314,
+                        "stageY": 374.99915973457735
+                    },
+                    "visible": true,
+                    "id": 5,
+                    "i1": 4
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 181,
+                        "listId": 1,
+                        "stageX": 1755,
+                        "stageY": 247.99940817787447
+                    },
+                    "memo": "",
+                    "i2": 12,
+                    "d1": {
+                        "width": 181,
+                        "listId": 1,
+                        "stageX": 1594.000004090314,
+                        "stageY": 374.99915973457735
+                    },
+                    "visible": true,
+                    "id": 6,
+                    "i1": 4
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 224,
+                        "listId": 1,
+                        "stageX": 1290.999999680444,
+                        "stageY": 363.99963136238944
+                    },
+                    "memo": "",
+                    "i2": 2,
+                    "d1": {
+                        "width": 270,
+                        "listId": 1,
+                        "stageX": 1455.999986770391,
+                        "stageY": 489.9994682359754
+                    },
+                    "visible": true,
+                    "id": 7,
+                    "i1": 3
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 181,
+                        "listId": 1,
+                        "stageX": 1594.000004090314,
+                        "stageY": 374.99915973457735
+                    },
+                    "memo": "",
+                    "i2": 4,
+                    "d1": {
+                        "width": 270,
+                        "listId": 1,
+                        "stageX": 1455.999986770391,
+                        "stageY": 489.9994682359754
+                    },
+                    "visible": true,
+                    "id": 8,
+                    "i1": 3
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 224,
+                        "listId": 1,
+                        "stageX": 1290.999999680444,
+                        "stageY": 363.99963136238944
+                    },
+                    "memo": "",
+                    "i2": 2,
+                    "d1": {
+                        "width": 348,
+                        "listId": 1,
+                        "stageX": 1147.0000366210913,
+                        "stageY": 437.9992953344661
+                    },
+                    "visible": true,
+                    "id": 9,
+                    "i1": 11
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 181,
+                        "listId": 1,
+                        "stageX": 1594.000004090314,
+                        "stageY": 374.99915973457735
+                    },
+                    "memo": "",
+                    "i2": 4,
+                    "d1": {
+                        "width": 348,
+                        "listId": 1,
+                        "stageX": 1147.0000366210913,
+                        "stageY": 437.9992953344661
+                    },
+                    "visible": true,
+                    "id": 10,
+                    "i1": 11
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 211,
+                        "listId": 1,
+                        "stageX": 1501.999995078841,
+                        "stageY": 882.0008416730429
+                    },
+                    "memo": "",
+                    "i2": 14,
+                    "d1": {
+                        "width": 97,
+                        "listId": 1,
+                        "stageX": 1345,
+                        "stageY": 989.0017552906223
+                    },
+                    "visible": true,
+                    "id": 11,
+                    "i1": 13
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 211,
+                        "listId": 1,
+                        "stageX": 1501.999995078841,
+                        "stageY": 882.0008416730429
+                    },
+                    "memo": "",
+                    "i2": 14,
+                    "d1": {
+                        "width": 467,
+                        "listId": 1,
+                        "stageX": 1531,
+                        "stageY": 982.0019503229137
+                    },
+                    "visible": true,
+                    "id": 12,
+                    "i1": 15
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 102,
+                        "listId": 1,
+                        "stageX": 1638.9999806988315,
+                        "stageY": 744.0004873461471
+                    },
+                    "memo": "",
+                    "i2": 5,
+                    "d1": {
+                        "width": 211,
+                        "listId": 1,
+                        "stageX": 1501.999995078841,
+                        "stageY": 882.0008416730429
+                    },
+                    "visible": true,
+                    "id": 13,
+                    "i1": 14
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 102,
+                        "listId": 1,
+                        "stageX": 1638.9999806988315,
+                        "stageY": 744.0004873461471
+                    },
+                    "memo": "",
+                    "i2": 5,
+                    "d1": {
+                        "width": 196,
+                        "listId": 1,
+                        "stageX": 1373.000019620724,
+                        "stageY": 813.9997623483675
+                    },
+                    "visible": true,
+                    "id": 14,
+                    "i1": 21
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 124,
+                        "listId": 1,
+                        "stageX": 1238,
+                        "stageY": 251.99984531921717
+                    },
+                    "memo": "",
+                    "i2": 17,
+                    "d1": {
+                        "width": 224,
+                        "listId": 1,
+                        "stageX": 1290.999999680444,
+                        "stageY": 363.99963136238944
+                    },
+                    "visible": true,
+                    "id": 15,
+                    "i1": 2
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 108,
+                        "listId": 1,
+                        "stageX": 1435,
+                        "stageY": 75
+                    },
+                    "memo": "",
+                    "i2": 9,
+                    "d1": {
+                        "width": 124,
+                        "listId": 1,
+                        "stageX": 1238,
+                        "stageY": 251.99984531921717
+                    },
+                    "visible": true,
+                    "id": 16,
+                    "i1": 17
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 181,
+                        "listId": 1,
+                        "stageX": 2306.999989518571,
+                        "stageY": 175.99988035309445
+                    },
+                    "memo": "",
+                    "i2": 24,
+                    "d1": {
+                        "width": 270,
+                        "listId": 1,
+                        "stageX": 2307.9999884959925,
+                        "stageY": 319.0000332352515
+                    },
+                    "visible": true,
+                    "id": 17,
+                    "i1": 28
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 358,
+                        "listId": 1,
+                        "stageX": 2277.9999972518203,
+                        "stageY": 490.00011964690566
+                    },
+                    "memo": "",
+                    "i2": 27,
+                    "d1": {
+                        "width": 101,
+                        "listId": 1,
+                        "stageX": 2354.999987345591,
+                        "stageY": 697.000671352081
+                    },
+                    "visible": true,
+                    "id": 20,
+                    "i1": 20
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 270,
+                        "listId": 1,
+                        "stageX": 2307.9999884959925,
+                        "stageY": 319.0000332352515
+                    },
+                    "memo": "",
+                    "i2": 28,
+                    "d1": {
+                        "width": 187,
+                        "listId": 1,
+                        "stageX": 2451.9999959735974,
+                        "stageY": 604.9998670589939
+                    },
+                    "visible": true,
+                    "id": 21,
+                    "i1": 26
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 270,
+                        "listId": 1,
+                        "stageX": 2307.9999884959925,
+                        "stageY": 319.0000332352515
+                    },
+                    "memo": "",
+                    "i2": 28,
+                    "d1": {
+                        "width": 358,
+                        "listId": 1,
+                        "stageX": 2277.9999972518203,
+                        "stageY": 490.00011964690566
+                    },
+                    "visible": true,
+                    "id": 22,
+                    "i1": 27
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 158,
+                        "listId": 1,
+                        "stageX": 2242.999987089948,
+                        "stageY": 620.0011366456029
+                    },
+                    "memo": "",
+                    "i2": 29,
+                    "d1": {
+                        "width": 101,
+                        "listId": 1,
+                        "stageX": 2354.999987345591,
+                        "stageY": 697.000671352081
+                    },
+                    "visible": true,
+                    "id": 23,
+                    "i1": 20
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 270,
+                        "listId": 1,
+                        "stageX": 2307.9999884959925,
+                        "stageY": 319.0000332352515
+                    },
+                    "memo": "",
+                    "i2": 28,
+                    "d1": {
+                        "width": 158,
+                        "listId": 1,
+                        "stageX": 2242.999987089948,
+                        "stageY": 620.0011366456029
+                    },
+                    "visible": true,
+                    "id": 24,
+                    "i1": 29
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 101,
+                        "listId": 1,
+                        "stageX": 2354.999987345591,
+                        "stageY": 697.000671352081
+                    },
+                    "memo": "",
+                    "i2": 20,
+                    "d1": {
+                        "width": 187,
+                        "listId": 1,
+                        "stageX": 2451.9999959735974,
+                        "stageY": 604.9998670589939
+                    },
+                    "visible": true,
+                    "id": 25,
+                    "i1": 26
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 224,
+                        "listId": 1,
+                        "stageX": 1827.0000044098686,
+                        "stageY": 681.0015221745206
+                    },
+                    "memo": "",
+                    "i2": 30,
+                    "d1": {
+                        "width": 102,
+                        "listId": 1,
+                        "stageX": 1638.9999806988315,
+                        "stageY": 744.0004873461471
+                    },
+                    "visible": true,
+                    "id": 26,
+                    "i1": 5
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 237,
+                        "listId": 1,
+                        "stageX": 1959.0000074136935,
+                        "stageY": 587.0006779991315
+                    },
+                    "memo": "",
+                    "i2": 31,
+                    "d1": {
+                        "width": 224,
+                        "listId": 1,
+                        "stageX": 1827.0000044098686,
+                        "stageY": 681.0015221745206
+                    },
+                    "visible": true,
+                    "id": 27,
+                    "i1": 30
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 158,
+                        "listId": 1,
+                        "stageX": 2242.999987089948,
+                        "stageY": 620.0011366456029
+                    },
+                    "memo": "",
+                    "i2": 29,
+                    "d1": {
+                        "width": 237,
+                        "listId": 1,
+                        "stageX": 1959.0000074136935,
+                        "stageY": 587.0006779991315
+                    },
+                    "visible": true,
+                    "id": 28,
+                    "i1": 31
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 220,
+                        "listId": 1,
+                        "stageX": 1776.000010737074,
+                        "stageY": 546.0001661762577
+                    },
+                    "memo": "",
+                    "i2": 32,
+                    "d1": {
+                        "width": 237,
+                        "listId": 1,
+                        "stageX": 1959.0000074136935,
+                        "stageY": 587.0006779991315
+                    },
+                    "visible": true,
+                    "id": 29,
+                    "i1": 31
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 270,
+                        "listId": 1,
+                        "stageX": 1455.999986770391,
+                        "stageY": 489.9994682359754
+                    },
+                    "memo": "",
+                    "i2": 3,
+                    "d1": {
+                        "width": 220,
+                        "listId": 1,
+                        "stageX": 1776.000010737074,
+                        "stageY": 546.0001661762577
+                    },
+                    "visible": true,
+                    "id": 30,
+                    "i1": 32
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 187,
+                        "listId": 1,
+                        "stageX": 2451.9999959735974,
+                        "stageY": 604.9998670589939
+                    },
+                    "memo": "",
+                    "i2": 26,
+                    "d1": {
+                        "width": 149,
+                        "listId": 1,
+                        "stageX": 2589.999999552622,
+                        "stageY": 882.0002259997106
+                    },
+                    "visible": true,
+                    "id": 31,
+                    "i1": 33
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 101,
+                        "listId": 1,
+                        "stageX": 2354.999987345591,
+                        "stageY": 697.000671352081
+                    },
+                    "memo": "",
+                    "i2": 20,
+                    "d1": {
+                        "width": 149,
+                        "listId": 1,
+                        "stageX": 2589.999999552622,
+                        "stageY": 882.0002259997106
+                    },
+                    "visible": true,
+                    "id": 32,
+                    "i1": 33
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 187,
+                        "listId": 1,
+                        "stageX": 2451.9999959735974,
+                        "stageY": 604.9998670589939
+                    },
+                    "memo": "",
+                    "i2": 26,
+                    "d1": {
+                        "width": 249,
+                        "listId": 1,
+                        "stageX": 2304.000021985437,
+                        "stageY": 882.0004652935216
+                    },
+                    "visible": true,
+                    "id": 33,
+                    "i1": 34
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 224,
+                        "listId": 1,
+                        "stageX": 1827.0000044098686,
+                        "stageY": 681.0015221745206
+                    },
+                    "memo": "",
+                    "i2": 30,
+                    "d1": {
+                        "width": 211,
+                        "listId": 1,
+                        "stageX": 1501.999995078841,
+                        "stageY": 882.0008416730429
+                    },
+                    "visible": true,
+                    "id": 34,
+                    "i1": 14
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 102,
+                        "listId": 1,
+                        "stageX": 1638.9999806988315,
+                        "stageY": 744.0004873461471
+                    },
+                    "memo": "",
+                    "i2": 5,
+                    "d1": {
+                        "width": 186,
+                        "listId": 1,
+                        "stageX": 1850.0000098423177,
+                        "stageY": 822.9999202353962
+                    },
+                    "visible": true,
+                    "id": 35,
+                    "i1": 35
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 186,
+                        "listId": 1,
+                        "stageX": 1850.0000098423177,
+                        "stageY": 822.9999202353962
+                    },
+                    "memo": "",
+                    "i2": 35,
+                    "d1": {
+                        "width": 249,
+                        "listId": 1,
+                        "stageX": 2304.000021985437,
+                        "stageY": 882.0004652935216
+                    },
+                    "visible": true,
+                    "id": 36,
+                    "i1": 34
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 358,
+                        "listId": 1,
+                        "stageX": 1541.9999957179527,
+                        "stageY": 617.9998404707926
+                    },
+                    "memo": "",
+                    "i2": 36,
+                    "d1": {
+                        "width": 102,
+                        "listId": 1,
+                        "stageX": 1638.9999806988315,
+                        "stageY": 744.0004873461471
+                    },
+                    "visible": true,
+                    "id": 37,
+                    "i1": 5
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 270,
+                        "listId": 1,
+                        "stageX": 1455.999986770391,
+                        "stageY": 489.9994682359754
+                    },
+                    "memo": "",
+                    "i2": 3,
+                    "d1": {
+                        "width": 358,
+                        "listId": 1,
+                        "stageX": 1541.9999957179527,
+                        "stageY": 617.9998404707926
+                    },
+                    "visible": true,
+                    "id": 38,
+                    "i1": 36
+                },
+                {
+                    "refs": "",
+                    "url": "",
+                    "d2": {
+                        "width": 358,
+                        "listId": 1,
+                        "stageX": 1541.9999957179527,
+                        "stageY": 617.9998404707926
+                    },
+                    "memo": "",
+                    "i2": 36,
+                    "d1": {
+                        "width": 186,
+                        "listId": 1,
+                        "stageX": 1850.0000098423177,
+                        "stageY": 822.9999202353962
+                    },
+                    "visible": true,
+                    "id": 39,
+                    "i1": 35
+                }
+            ]
+        },
+        "items": {
+            "artifacts": [
+                {
+                    "width": 224,
+                    "fT": "Being a science and engineering woman",
+                    "url": "",
+                    "pos": {
+                        "x": 326.99999968044403,
+                        "y": 310.99963136238944
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "become normal",
+                    "visible": true,
+                    "id": 2
+                },
+                {
+                    "width": 270,
+                    "fT": "the number of women in science and engineering",
+                    "url": "",
+                    "pos": {
+                        "x": 491.99998677039093,
+                        "y": 436.9994682359754
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "Increase",
+                    "visible": true,
+                    "id": 3
+                },
+                {
+                    "width": 181,
+                    "fT": "Science and engineering women",
+                    "url": "",
+                    "pos": {
+                        "x": 630.000004090314,
+                        "y": 321.99915973457735
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "become major",
+                    "visible": true,
+                    "id": 4
+                },
+                {
+                    "width": 102,
+                    "fT": "NPO organization",
+                    "url": "",
+                    "pos": {
+                        "x": 674.9999806988315,
+                        "y": 691.0004873461471
+                    },
+                    "memo": "GSTEM-CPP",
+                    "refs": "",
+                    "sT": "be established",
+                    "visible": true,
+                    "id": 5
+                },
+                {
+                    "width": 108,
+                    "fT": "The Society",
+                    "url": "",
+                    "pos": {
+                        "x": 471,
+                        "y": 22
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "become diverse",
+                    "visible": true,
+                    "id": 9
+                },
+                {
+                    "width": 272,
+                    "fT": "science and engineering women",
+                    "url": "",
+                    "pos": {
+                        "x": 484,
+                        "y": 194.999495606143
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "Proud to be a science and engineering woman",
+                    "visible": true,
+                    "id": 10
+                },
+                {
+                    "width": 348,
+                    "fT": "the number of role models for women in science and technology",
+                    "url": "",
+                    "pos": {
+                        "x": 183.00003662109134,
+                        "y": 384.9992953344661
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "increase",
+                    "visible": true,
+                    "id": 11
+                },
+                {
+                    "width": 181,
+                    "fT": "Science and engineering women",
+                    "url": "",
+                    "pos": {
+                        "x": 791,
+                        "y": 194.99940817787447
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "can live as themselves",
+                    "visible": true,
+                    "id": 12
+                },
+                {
+                    "width": 97,
+                    "fT": "Aspiring people",
+                    "url": "",
+                    "pos": {
+                        "x": 381,
+                        "y": 936.0017552906223
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "gather friends",
+                    "visible": true,
+                    "id": 13
+                },
+                {
+                    "width": 211,
+                    "fT": "events for middle and high school girls",
+                    "url": "",
+                    "pos": {
+                        "x": 537.999995078841,
+                        "y": 829.0008416730429
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "organized",
+                    "visible": true,
+                    "id": 14
+                },
+                {
+                    "width": 467,
+                    "fT": "JST",
+                    "url": "",
+                    "pos": {
+                        "x": 567,
+                        "y": 929.0019503229137
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "Invites Applications for Programs for Female Junior High and High School Students",
+                    "visible": true,
+                    "id": 15
+                },
+                {
+                    "width": 124,
+                    "fT": "A society",
+                    "url": "",
+                    "pos": {
+                        "x": 274,
+                        "y": 198.99984531921717
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "embraces diversity",
+                    "visible": true,
+                    "id": 17
+                },
+                {
+                    "width": 211,
+                    "fT": "A society in which everyone can thrive",
+                    "url": "",
+                    "pos": {
+                        "y": 76.99994619798858,
+                        "x": 692
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "can be realized",
+                    "visible": true,
+                    "id": 18
+                },
+                {
+                    "width": 101,
+                    "fT": "Unconscious bias",
+                    "url": "",
+                    "pos": {
+                        "x": 1390.9999873455909,
+                        "y": 644.000671352081
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "prevails",
+                    "visible": true,
+                    "id": 20
+                },
+                {
+                    "width": 196,
+                    "fT": "The need to raise funds on our own",
+                    "url": "",
+                    "pos": {
+                        "x": 409.00001962072406,
+                        "y": 760.9997623483675
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "emerge",
+                    "visible": true,
+                    "id": 21
+                },
+                {
+                    "width": 181,
+                    "fT": "Science and engineering women",
+                    "url": "",
+                    "pos": {
+                        "x": 1342.999989518571,
+                        "y": 122.99988035309445
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "remain minor",
+                    "visible": true,
+                    "id": 24
+                },
+                {
+                    "width": 187,
+                    "fT": "Women",
+                    "url": "",
+                    "pos": {
+                        "x": 1487.9999959735974,
+                        "y": 551.9998670589939
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "are said not suited for science.",
+                    "visible": true,
+                    "id": 26
+                },
+                {
+                    "width": 358,
+                    "fT": "Parents and teachers",
+                    "url": "",
+                    "pos": {
+                        "x": 1313.9999972518203,
+                        "y": 437.00011964690566
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "promote liberal arts to female middle and high school students.",
+                    "visible": true,
+                    "id": 27
+                },
+                {
+                    "width": 270,
+                    "fT": "the number of women in science and engineering",
+                    "url": "",
+                    "pos": {
+                        "x": 1343.9999884959925,
+                        "y": 266.0000332352515
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "remain to be low",
+                    "visible": true,
+                    "id": 28
+                },
+                {
+                    "width": 158,
+                    "fT": "Young girls",
+                    "url": "",
+                    "pos": {
+                        "x": 1278.9999870899478,
+                        "y": 567.0011366456029
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "internalize the stereotype",
+                    "visible": true,
+                    "id": 29
+                },
+                {
+                    "width": 224,
+                    "fT": "NPO organization",
+                    "url": "",
+                    "pos": {
+                        "x": 863.0000044098686,
+                        "y": 628.0015221745206
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "work towards breaking the stereotype",
+                    "visible": true,
+                    "id": 30
+                },
+                {
+                    "width": 237,
+                    "fT": "Young girls",
+                    "url": "",
+                    "pos": {
+                        "x": 995.0000074136935,
+                        "y": 534.0006779991315
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "get knowledge about wrong stereotypes",
+                    "visible": true,
+                    "id": 31
+                },
+                {
+                    "width": 220,
+                    "fT": "Young girls",
+                    "url": "",
+                    "pos": {
+                        "x": 812.000010737074,
+                        "y": 493.0001661762577
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "do not hesitate to aim for STEM area",
+                    "visible": true,
+                    "id": 32
+                },
+                {
+                    "width": 149,
+                    "fT": "Science",
+                    "url": "",
+                    "pos": {
+                        "x": 1625.9999995526218,
+                        "y": 829.0002259997106
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "be associated with men",
+                    "visible": true,
+                    "id": 33
+                },
+                {
+                    "width": 249,
+                    "fT": "Women",
+                    "url": "",
+                    "pos": {
+                        "x": 1340.000021985437,
+                        "y": 829.0004652935216
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "be assiciated with care and domestic work",
+                    "visible": true,
+                    "id": 34
+                },
+                {
+                    "width": 186,
+                    "fT": "The need for support in child care",
+                    "url": "",
+                    "pos": {
+                        "x": 886.0000098423177,
+                        "y": 769.9999202353962
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "emerge",
+                    "visible": true,
+                    "id": 35
+                },
+                {
+                    "width": 358,
+                    "fT": "NPO organization",
+                    "url": "",
+                    "pos": {
+                        "x": 577.9999957179527,
+                        "y": 564.9998404707926
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "works to improve the working environment for women in STEM",
+                    "visible": true,
+                    "id": 36
+                }
+            ],
+            "effects": [
+                {
+                    "width": 56,
+                    "fT": "I",
+                    "url": "",
+                    "pos": {
+                        "y": 464,
+                        "x": 368
+                    },
+                    "memo": "with more friends",
+                    "refs": "",
+                    "sT": "happy",
+                    "visible": true,
+                    "id": 16
+                }
+            ],
+            "reasons": [
+                {
+                    "width": 213,
+                    "fT": "I was the only student in",
+                    "url": "",
+                    "pos": {
+                        "y": 392,
+                        "x": 180
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "my class (Univ. Chemical Engineering)",
+                    "visible": true,
+                    "id": 1
+                },
+                {
+                    "width": 49,
+                    "fT": "I hate",
+                    "url": "",
+                    "pos": {
+                        "y": 354,
+                        "x": 371
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "waste",
+                    "visible": true,
+                    "id": 6
+                },
+                {
+                    "width": 59,
+                    "fT": "I like",
+                    "url": "",
+                    "pos": {
+                        "y": 482,
+                        "x": 360
+                    },
+                    "memo": "",
+                    "refs": "",
+                    "sT": "comrades",
+                    "visible": true,
+                    "id": 7
+                }
+            ]
+        }
+    }
+}
