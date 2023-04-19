@@ -1,0 +1,258 @@
+{
+    "hasReason": [],
+    "hasArtifactsOnly": [
+        {
+            "url": "",
+            "d1": {
+                "listId": 1,
+                "width": 30,
+                "stageY": 996,
+                "stageX": 1533
+            },
+            "i1": 1,
+            "refs": "",
+            "d2": {
+                "listId": 1,
+                "width": 30,
+                "stageY": 801.9999992179993,
+                "stageX": 1385.000009906229
+            },
+            "memo": "",
+            "id": 1,
+            "visible": true,
+            "i2": 2
+        },
+        {
+            "url": "",
+            "d1": {
+                "listId": 1,
+                "width": 30,
+                "stageY": 801.9999992179993,
+                "stageX": 1385.000009906229
+            },
+            "i1": 2,
+            "refs": "",
+            "d2": {
+                "listId": 1,
+                "width": 30,
+                "stageY": 578.9999982013984,
+                "stageX": 1527.9999984661322
+            },
+            "memo": "",
+            "id": 2,
+            "visible": true,
+            "i2": 3
+        },
+        {
+            "url": "",
+            "d1": {
+                "listId": 1,
+                "width": 30,
+                "stageY": 578.9999982013984,
+                "stageX": 1527.9999984661322
+            },
+            "i1": 3,
+            "refs": "",
+            "d2": {
+                "listId": 1,
+                "width": 30,
+                "stageY": 380.99999882699905,
+                "stageX": 1584.9999961014198
+            },
+            "memo": "",
+            "id": 3,
+            "visible": true,
+            "i2": 4
+        },
+        {
+            "url": "",
+            "d1": {
+                "listId": 1,
+                "width": 30,
+                "stageY": 380.99999882699905,
+                "stageX": 1584.9999961014198
+            },
+            "i1": 4,
+            "refs": "",
+            "d2": {
+                "listId": 1,
+                "width": 30,
+                "stageY": 154,
+                "stageX": 1533
+            },
+            "memo": "",
+            "id": 4,
+            "visible": true,
+            "i2": 5
+        },
+        {
+            "url": "",
+            "d1": {
+                "listId": 1,
+                "width": 29,
+                "stageY": 989.9999987487989,
+                "stageX": 2109.000001214312
+            },
+            "i1": 6,
+            "refs": "",
+            "d2": {
+                "listId": 1,
+                "width": 29,
+                "stageY": 799.9999973411977,
+                "stageX": 2110.999999872178
+            },
+            "memo": "",
+            "id": 5,
+            "visible": true,
+            "i2": 7
+        },
+        {
+            "url": "",
+            "d1": {
+                "listId": 1,
+                "width": 29,
+                "stageY": 799.9999973411977,
+                "stageX": 2110.999999872178
+            },
+            "i1": 7,
+            "refs": "",
+            "d2": {
+                "listId": 1,
+                "width": 29,
+                "stageY": 591.9999958553964,
+                "stageX": 2108.9999994247996
+            },
+            "memo": "",
+            "id": 6,
+            "visible": true,
+            "i2": 8
+        },
+        {
+            "url": "",
+            "d1": {
+                "listId": 1,
+                "width": 29,
+                "stageY": 591.9999958553964,
+                "stageX": 2108.9999994247996
+            },
+            "i1": 8,
+            "refs": "",
+            "d2": {
+                "listId": 1,
+                "width": 29,
+                "stageY": 360.9999989833991,
+                "stageX": 1938.0000109288076
+            },
+            "memo": "",
+            "id": 7,
+            "visible": true,
+            "i2": 9
+        },
+        {
+            "url": "",
+            "d1": {
+                "listId": 1,
+                "width": 29,
+                "stageY": 360.9999989833991,
+                "stageX": 1938.0000109288076
+            },
+            "i1": 9,
+            "refs": "",
+            "d2": {
+                "listId": 1,
+                "width": 29,
+                "stageY": 151.99999851419875,
+                "stageX": 2106.999999936089
+            },
+            "memo": "",
+            "id": 8,
+            "visible": true,
+            "i2": 10
+        },
+        {
+            "url": "",
+            "d1": {
+                "listId": 1,
+                "width": 30,
+                "stageY": 996,
+                "stageX": 1533
+            },
+            "i1": 1,
+            "refs": "",
+            "d2": {
+                "listId": 1,
+                "width": 32,
+                "stageY": 797.9999998435999,
+                "stageX": 1721.9999941201738
+            },
+            "memo": "",
+            "id": 9,
+            "visible": true,
+            "i2": 11
+        },
+        {
+            "url": "",
+            "d1": {
+                "listId": 1,
+                "width": 32,
+                "stageY": 797.9999998435999,
+                "stageX": 1721.9999941201738
+            },
+            "i1": 11,
+            "refs": "",
+            "d2": {
+                "listId": 1,
+                "width": 30,
+                "stageY": 578.9999982013984,
+                "stageX": 1527.9999984661322
+            },
+            "memo": "",
+            "id": 10,
+            "visible": true,
+            "i2": 3
+        },
+        {
+            "url": "",
+            "d1": {
+                "listId": 1,
+                "width": 29,
+                "stageY": 591.9999958553964,
+                "stageX": 2108.9999994247996
+            },
+            "i1": 8,
+            "refs": "",
+            "d2": {
+                "listId": 1,
+                "width": 32,
+                "stageY": 362.99999992179994,
+                "stageX": 2283.9999948231966
+            },
+            "memo": "",
+            "id": 11,
+            "visible": true,
+            "i2": 12
+        },
+        {
+            "url": "",
+            "d1": {
+                "listId": 1,
+                "width": 32,
+                "stageY": 362.99999992179994,
+                "stageX": 2283.9999948231966
+            },
+            "i1": 12,
+            "refs": "",
+            "d2": {
+                "listId": 1,
+                "width": 29,
+                "stageY": 151.99999851419875,
+                "stageX": 2106.999999936089
+            },
+            "memo": "",
+            "id": 12,
+            "visible": true,
+            "i2": 10
+        }
+    ],
+    "hasEffect": []
+}

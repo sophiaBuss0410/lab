@@ -1,0 +1,1564 @@
+{
+    "url": "",
+    "tree_id": 893,
+    "bookmark": false,
+    "refs": "",
+    "data": {
+        "items": {
+            "artifacts": [
+                {
+                    "width": 108,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "The society",
+                    "memo": "",
+                    "id": 1,
+                    "pos": {
+                        "x": 682.0007459083911,
+                        "y": 74.99976375662325
+                    },
+                    "sT": "become diverse"
+                },
+                {
+                    "width": 169,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Marginalized/minority students",
+                    "memo": "",
+                    "id": 2,
+                    "pos": {
+                        "y": 1201,
+                        "x": 408
+                    },
+                    "sT": "be in campus"
+                },
+                {
+                    "width": 269,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Privileged students",
+                    "memo": "",
+                    "id": 3,
+                    "pos": {
+                        "x": 768.9999929058401,
+                        "y": 1078.9995279824466
+                    },
+                    "sT": "have little awareness/interests in social justice"
+                },
+                {
+                    "width": 240,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Students",
+                    "memo": "",
+                    "id": 5,
+                    "pos": {
+                        "x": 541.9992162560886,
+                        "y": 807.9992377026058
+                    },
+                    "sT": "build a team to change the circumstance"
+                },
+                {
+                    "width": 108,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Privileged students",
+                    "memo": "",
+                    "id": 6,
+                    "pos": {
+                        "x": 908.9999961653305,
+                        "y": 1193.000000938401
+                    },
+                    "sT": "be in campus"
+                },
+                {
+                    "width": 367,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Marginalized/minority students",
+                    "memo": "",
+                    "id": 7,
+                    "pos": {
+                        "x": 390.9997568176225,
+                        "y": 1025.0000176732824
+                    },
+                    "sT": "suffer from poor understandings of other students at the campus"
+                },
+                {
+                    "width": 276,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Some students",
+                    "memo": "",
+                    "id": 8,
+                    "pos": {
+                        "x": 766.9996422247284,
+                        "y": 935.0000776529856
+                    },
+                    "sT": "become motivated to improve the circumstance"
+                },
+                {
+                    "width": 155,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Some students",
+                    "memo": "",
+                    "id": 9,
+                    "pos": {
+                        "x": 764.0000504259597,
+                        "y": 734.9991433147381
+                    },
+                    "sT": "become student activists"
+                },
+                {
+                    "width": 285,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Students who are eager to change the circumstance",
+                    "memo": "",
+                    "id": 10,
+                    "pos": {
+                        "x": 730.9996979553478,
+                        "y": 863.9991619264214
+                    },
+                    "sT": "get together"
+                },
+                {
+                    "width": 321,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Student activists",
+                    "memo": "",
+                    "id": 11,
+                    "pos": {
+                        "x": 419.9994977213057,
+                        "y": 626.9986522944845
+                    },
+                    "sT": "get encouraged by peers, professors, and the institution"
+                },
+                {
+                    "width": 264,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Each member of the institution",
+                    "memo": "",
+                    "id": 12,
+                    "pos": {
+                        "x": 572.9997610996452,
+                        "y": 366.99710768037767
+                    },
+                    "sT": "have a good understanding of social injustice"
+                },
+                {
+                    "width": 291,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Student activists",
+                    "memo": "",
+                    "id": 14,
+                    "pos": {
+                        "x": 516.9996363448399,
+                        "y": 515.9995889787511
+                    },
+                    "sT": "can reach out to a lot of members of the institution"
+                },
+                {
+                    "width": 287,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Each member of the institution",
+                    "memo": "",
+                    "id": 15,
+                    "pos": {
+                        "x": 535.9996054117919,
+                        "y": 437.9988402882185
+                    },
+                    "sT": "have an opportunity to learn about social injustice"
+                },
+                {
+                    "width": 116,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "The whole campus",
+                    "memo": "",
+                    "id": 16,
+                    "pos": {
+                        "x": 436.99979982986383,
+                        "y": 266.0000356593818
+                    },
+                    "sT": "become inclusive"
+                },
+                {
+                    "width": 176,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Graduates from the institution",
+                    "memo": "",
+                    "id": 17,
+                    "pos": {
+                        "x": 692.0001639962748,
+                        "y": 187.99989912149363
+                    },
+                    "sT": "make changes in the society"
+                },
+                {
+                    "width": 303,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Graduates from the institution",
+                    "memo": "",
+                    "id": 18,
+                    "pos": {
+                        "x": 652.0002095010911,
+                        "y": 270.0001983161931
+                    },
+                    "sT": "can advocate for social injustice in their environment"
+                },
+                {
+                    "width": 186,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Practices in the institution",
+                    "memo": "",
+                    "id": 21,
+                    "pos": {
+                        "x": 381.99988470403673,
+                        "y": 153.00007851318642
+                    },
+                    "sT": "grab attention from the society"
+                },
+                {
+                    "width": 109,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Indifferent students",
+                    "memo": "",
+                    "id": 24,
+                    "pos": {
+                        "x": 1294.9999958457747,
+                        "y": 1191.9999882699897
+                    },
+                    "sT": "be in campus"
+                },
+                {
+                    "width": 283,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Students who are interested but cannot raise voices",
+                    "memo": "",
+                    "id": 25,
+                    "pos": {
+                        "x": 738.0000462077642,
+                        "y": 597.0000350336293
+                    },
+                    "sT": "can have access to knowledge and movement"
+                },
+                {
+                    "width": 110,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "The built teams",
+                    "memo": "",
+                    "id": 26,
+                    "pos": {
+                        "x": 1402.0000140604539,
+                        "y": 393.0000317492268
+                    },
+                    "sT": "become inactive"
+                },
+                {
+                    "width": 115,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Being an activist",
+                    "memo": "",
+                    "id": 27,
+                    "pos": {
+                        "x": 1264.0000054324478,
+                        "y": 704.0000170476144
+                    },
+                    "sT": "become a stigma"
+                },
+                {
+                    "width": 401,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Minority students",
+                    "memo": "",
+                    "id": 28,
+                    "pos": {
+                        "x": 325.0000108009849,
+                        "y": 937.9999949169957
+                    },
+                    "sT": "want to improve the circumstances in order for them to live comfortably"
+                },
+                {
+                    "width": 231,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Minority students",
+                    "memo": "",
+                    "id": 29,
+                    "pos": {
+                        "x": 387.00000019173353,
+                        "y": 872.9999981231985
+                    },
+                    "sT": "get together with themselves and allies"
+                },
+                {
+                    "width": 283,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Students who are interested but cannot raise voices",
+                    "memo": "",
+                    "id": 30,
+                    "pos": {
+                        "x": 1514.999982807899,
+                        "y": 1182.0000008602008
+                    },
+                    "sT": "be in campus"
+                },
+                {
+                    "width": 189,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Some students",
+                    "memo": "",
+                    "id": 32,
+                    "pos": {
+                        "x": 1217.0000024286237,
+                        "y": 837.0000037536032
+                    },
+                    "sT": "get discouraged in the daily life"
+                },
+                {
+                    "width": 284,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Other students",
+                    "memo": "",
+                    "id": 34,
+                    "pos": {
+                        "x": 1418.0000100340512,
+                        "y": 766.0000096186083
+                    },
+                    "sT": "show little interest in changing the circumstances"
+                },
+                {
+                    "width": 245,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "The society",
+                    "memo": "",
+                    "id": 36,
+                    "pos": {
+                        "x": 1598.9999862591017,
+                        "y": 577.0000221306186
+                    },
+                    "sT": "does not value the importance of activism"
+                },
+                {
+                    "width": 147,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "The student activists",
+                    "memo": "",
+                    "id": 37,
+                    "pos": {
+                        "x": 1526.0000033872911,
+                        "y": 485.9999989833992
+                    },
+                    "sT": "become less motivated"
+                },
+                {
+                    "width": 202,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Student activism",
+                    "memo": "",
+                    "id": 38,
+                    "pos": {
+                        "x": 1348.0000053685371,
+                        "y": 274.99999546439614
+                    },
+                    "sT": "fail to achieve a chage in campus"
+                },
+                {
+                    "width": 145,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "The society",
+                    "memo": "",
+                    "id": 39,
+                    "pos": {
+                        "x": 1326.0000080528057,
+                        "y": 85.0000029716025
+                    },
+                    "sT": "do not become diverse"
+                },
+                {
+                    "width": 307,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Many students",
+                    "memo": "",
+                    "id": 40,
+                    "pos": {
+                        "x": 1523.0000005112888,
+                        "y": 186.99999851419875
+                    },
+                    "sT": "do not have access to knowledge about social justice"
+                },
+                {
+                    "width": 326,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Professors who are concious about the problems in campus",
+                    "memo": "",
+                    "id": 42,
+                    "pos": {
+                        "x": 1033.9999480402314,
+                        "y": 1028.0000065688055
+                    },
+                    "sT": "be in power"
+                },
+                {
+                    "width": 325,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Professors",
+                    "memo": "",
+                    "id": 43,
+                    "pos": {
+                        "x": 917.000010737074,
+                        "y": 671.9999993743994
+                    },
+                    "sT": "build an educational course about diversity and inclusion"
+                },
+                {
+                    "width": 268,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Indifferent students",
+                    "memo": "",
+                    "id": 44,
+                    "pos": {
+                        "x": 1018.000014124365,
+                        "y": 506.0000004692005
+                    },
+                    "sT": "take D&I courses for credits or their popularity"
+                },
+                {
+                    "width": 189,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "Academic field for minority studies",
+                    "memo": "",
+                    "id": 45,
+                    "pos": {
+                        "x": 1120,
+                        "y": 1299
+                    },
+                    "sT": "exist"
+                }
+            ],
+            "reasons": [],
+            "effects": []
+        },
+        "arrows": {
+            "hasReason": [],
+            "hasArtifactsOnly": [
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 6,
+                    "refs": "",
+                    "d2": {
+                        "width": 269,
+                        "listId": 1,
+                        "stageY": 1131.9995279824466,
+                        "stageX": 1732.9999929058401
+                    },
+                    "memo": "",
+                    "id": 1,
+                    "i2": 3,
+                    "d1": {
+                        "width": 108,
+                        "listId": 1,
+                        "stageY": 1246.000000938401,
+                        "stageX": 1872.9999961653305
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 2,
+                    "refs": "",
+                    "d2": {
+                        "width": 367,
+                        "listId": 1,
+                        "stageY": 1078.0000176732824,
+                        "stageX": 1354.9997568176225
+                    },
+                    "memo": "",
+                    "id": 2,
+                    "i2": 7,
+                    "d1": {
+                        "width": 169,
+                        "listId": 1,
+                        "stageY": 1254,
+                        "stageX": 1372
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 3,
+                    "refs": "",
+                    "d2": {
+                        "width": 367,
+                        "listId": 1,
+                        "stageY": 1078.0000176732824,
+                        "stageX": 1354.9997568176225
+                    },
+                    "memo": "",
+                    "id": 3,
+                    "i2": 7,
+                    "d1": {
+                        "width": 269,
+                        "listId": 1,
+                        "stageY": 1131.9995279824466,
+                        "stageX": 1732.9999929058401
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 8,
+                    "refs": "",
+                    "d2": {
+                        "width": 269,
+                        "listId": 1,
+                        "stageY": 1131.9995279824466,
+                        "stageX": 1732.9999929058401
+                    },
+                    "memo": "",
+                    "id": 4,
+                    "i2": 3,
+                    "d1": {
+                        "width": 276,
+                        "listId": 1,
+                        "stageY": 988.0000776529856,
+                        "stageX": 1730.9996422247284
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 7,
+                    "refs": "",
+                    "d2": {
+                        "width": 276,
+                        "listId": 1,
+                        "stageY": 988.0000776529856,
+                        "stageX": 1730.9996422247284
+                    },
+                    "memo": "",
+                    "id": 5,
+                    "i2": 8,
+                    "d1": {
+                        "width": 367,
+                        "listId": 1,
+                        "stageY": 1078.0000176732824,
+                        "stageX": 1354.9997568176225
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 10,
+                    "refs": "",
+                    "d2": {
+                        "width": 276,
+                        "listId": 1,
+                        "stageY": 988.0000776529856,
+                        "stageX": 1730.9996422247284
+                    },
+                    "memo": "",
+                    "id": 6,
+                    "i2": 8,
+                    "d1": {
+                        "width": 285,
+                        "listId": 1,
+                        "stageY": 916.9991619264214,
+                        "stageX": 1694.9996979553478
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 10,
+                    "refs": "",
+                    "d2": {
+                        "width": 240,
+                        "listId": 1,
+                        "stageY": 860.9992377026058,
+                        "stageX": 1505.9992162560886
+                    },
+                    "memo": "",
+                    "id": 7,
+                    "i2": 5,
+                    "d1": {
+                        "width": 285,
+                        "listId": 1,
+                        "stageY": 916.9991619264214,
+                        "stageX": 1694.9996979553478
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 5,
+                    "refs": "",
+                    "d2": {
+                        "width": 155,
+                        "listId": 1,
+                        "stageY": 787.9991433147381,
+                        "stageX": 1728.0000504259597
+                    },
+                    "memo": "",
+                    "id": 8,
+                    "i2": 9,
+                    "d1": {
+                        "width": 240,
+                        "listId": 1,
+                        "stageY": 860.9992377026058,
+                        "stageX": 1505.9992162560886
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 9,
+                    "refs": "",
+                    "d2": {
+                        "width": 321,
+                        "listId": 1,
+                        "stageY": 679.9986522944845,
+                        "stageX": 1383.9994977213057
+                    },
+                    "memo": "",
+                    "id": 9,
+                    "i2": 11,
+                    "d1": {
+                        "width": 155,
+                        "listId": 1,
+                        "stageY": 787.9991433147381,
+                        "stageX": 1728.0000504259597
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 11,
+                    "refs": "",
+                    "d2": {
+                        "width": 240,
+                        "listId": 1,
+                        "stageY": 860.9992377026058,
+                        "stageX": 1505.9992162560886
+                    },
+                    "memo": "",
+                    "id": 10,
+                    "i2": 5,
+                    "d1": {
+                        "width": 321,
+                        "listId": 1,
+                        "stageY": 679.9986522944845,
+                        "stageX": 1383.9994977213057
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 14,
+                    "refs": "",
+                    "d2": {
+                        "width": 321,
+                        "listId": 1,
+                        "stageY": 679.9986522944845,
+                        "stageX": 1383.9994977213057
+                    },
+                    "memo": "",
+                    "id": 11,
+                    "i2": 11,
+                    "d1": {
+                        "width": 291,
+                        "listId": 1,
+                        "stageY": 568.9995889787511,
+                        "stageX": 1480.99963634484
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 9,
+                    "refs": "",
+                    "d2": {
+                        "width": 291,
+                        "listId": 1,
+                        "stageY": 568.9995889787511,
+                        "stageX": 1480.99963634484
+                    },
+                    "memo": "",
+                    "id": 12,
+                    "i2": 14,
+                    "d1": {
+                        "width": 155,
+                        "listId": 1,
+                        "stageY": 787.9991433147381,
+                        "stageX": 1728.0000504259597
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 14,
+                    "refs": "",
+                    "d2": {
+                        "width": 287,
+                        "listId": 1,
+                        "stageY": 490.9988402882185,
+                        "stageX": 1499.999605411792
+                    },
+                    "memo": "",
+                    "id": 13,
+                    "i2": 15,
+                    "d1": {
+                        "width": 291,
+                        "listId": 1,
+                        "stageY": 568.9995889787511,
+                        "stageX": 1480.99963634484
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 15,
+                    "refs": "",
+                    "d2": {
+                        "width": 264,
+                        "listId": 1,
+                        "stageY": 419.99710768037767,
+                        "stageX": 1536.9997610996452
+                    },
+                    "memo": "",
+                    "id": 14,
+                    "i2": 12,
+                    "d1": {
+                        "width": 287,
+                        "listId": 1,
+                        "stageY": 490.9988402882185,
+                        "stageX": 1499.999605411792
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 16,
+                    "refs": "",
+                    "d2": {
+                        "width": 264,
+                        "listId": 1,
+                        "stageY": 419.99710768037767,
+                        "stageX": 1536.9997610996452
+                    },
+                    "memo": "",
+                    "id": 15,
+                    "i2": 12,
+                    "d1": {
+                        "width": 116,
+                        "listId": 1,
+                        "stageY": 319.0000356593818,
+                        "stageX": 1400.9997998298638
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 1,
+                    "refs": "",
+                    "d2": {
+                        "width": 116,
+                        "listId": 1,
+                        "stageY": 319.0000356593818,
+                        "stageX": 1400.9997998298638
+                    },
+                    "memo": "",
+                    "id": 16,
+                    "i2": 16,
+                    "d1": {
+                        "width": 108,
+                        "listId": 1,
+                        "stageY": 127.99976375662325,
+                        "stageX": 1646.000745908391
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 12,
+                    "refs": "",
+                    "d2": {
+                        "width": 303,
+                        "listId": 1,
+                        "stageY": 323.0001983161931,
+                        "stageX": 1616.0002095010911
+                    },
+                    "memo": "",
+                    "id": 17,
+                    "i2": 18,
+                    "d1": {
+                        "width": 264,
+                        "listId": 1,
+                        "stageY": 419.99710768037767,
+                        "stageX": 1536.9997610996452
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 18,
+                    "refs": "",
+                    "d2": {
+                        "width": 176,
+                        "listId": 1,
+                        "stageY": 240.99989912149363,
+                        "stageX": 1656.0001639962748
+                    },
+                    "memo": "",
+                    "id": 18,
+                    "i2": 17,
+                    "d1": {
+                        "width": 303,
+                        "listId": 1,
+                        "stageY": 323.0001983161931,
+                        "stageX": 1616.0002095010911
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 17,
+                    "refs": "",
+                    "d2": {
+                        "width": 108,
+                        "listId": 1,
+                        "stageY": 127.99976375662325,
+                        "stageX": 1646.000745908391
+                    },
+                    "memo": "",
+                    "id": 19,
+                    "i2": 1,
+                    "d1": {
+                        "width": 176,
+                        "listId": 1,
+                        "stageY": 240.99989912149363,
+                        "stageX": 1656.0001639962748
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 16,
+                    "refs": "",
+                    "d2": {
+                        "width": 186,
+                        "listId": 1,
+                        "stageY": 206.00007851318642,
+                        "stageX": 1345.9998847040367
+                    },
+                    "memo": "",
+                    "id": 20,
+                    "i2": 21,
+                    "d1": {
+                        "width": 116,
+                        "listId": 1,
+                        "stageY": 319.0000356593818,
+                        "stageX": 1400.9997998298638
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 21,
+                    "refs": "",
+                    "d2": {
+                        "width": 108,
+                        "listId": 1,
+                        "stageY": 127.99976375662325,
+                        "stageX": 1646.000745908391
+                    },
+                    "memo": "",
+                    "id": 21,
+                    "i2": 1,
+                    "d1": {
+                        "width": 186,
+                        "listId": 1,
+                        "stageY": 206.00007851318642,
+                        "stageX": 1345.9998847040367
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 7,
+                    "refs": "",
+                    "d2": {
+                        "width": 401,
+                        "listId": 1,
+                        "stageY": 990.9999949169957,
+                        "stageX": 1289.000010800985
+                    },
+                    "memo": "",
+                    "id": 22,
+                    "i2": 28,
+                    "d1": {
+                        "width": 367,
+                        "listId": 1,
+                        "stageY": 1078.0000176732824,
+                        "stageX": 1354.9997568176225
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 28,
+                    "refs": "",
+                    "d2": {
+                        "width": 231,
+                        "listId": 1,
+                        "stageY": 925.9999981231985,
+                        "stageX": 1351.0000001917335
+                    },
+                    "memo": "",
+                    "id": 23,
+                    "i2": 29,
+                    "d1": {
+                        "width": 401,
+                        "listId": 1,
+                        "stageY": 990.9999949169957,
+                        "stageX": 1289.000010800985
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 29,
+                    "refs": "",
+                    "d2": {
+                        "width": 240,
+                        "listId": 1,
+                        "stageY": 860.9992377026058,
+                        "stageX": 1505.9992162560886
+                    },
+                    "memo": "",
+                    "id": 24,
+                    "i2": 5,
+                    "d1": {
+                        "width": 231,
+                        "listId": 1,
+                        "stageY": 925.9999981231985,
+                        "stageX": 1351.0000001917335
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 9,
+                    "refs": "",
+                    "d2": {
+                        "width": 283,
+                        "listId": 1,
+                        "stageY": 650.0000350336293,
+                        "stageX": 1702.0000462077642
+                    },
+                    "memo": "",
+                    "id": 25,
+                    "i2": 25,
+                    "d1": {
+                        "width": 155,
+                        "listId": 1,
+                        "stageY": 787.9991433147381,
+                        "stageX": 1728.0000504259597
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 25,
+                    "refs": "",
+                    "d2": {
+                        "width": 291,
+                        "listId": 1,
+                        "stageY": 568.9995889787511,
+                        "stageX": 1480.99963634484
+                    },
+                    "memo": "",
+                    "id": 26,
+                    "i2": 14,
+                    "d1": {
+                        "width": 283,
+                        "listId": 1,
+                        "stageY": 650.0000350336293,
+                        "stageX": 1702.0000462077642
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 8,
+                    "refs": "",
+                    "d2": {
+                        "width": 189,
+                        "listId": 1,
+                        "stageY": 890.0000037536032,
+                        "stageX": 2181.0000024286237
+                    },
+                    "memo": "",
+                    "id": 27,
+                    "i2": 32,
+                    "d1": {
+                        "width": 276,
+                        "listId": 1,
+                        "stageY": 988.0000776529856,
+                        "stageX": 1730.9996422247284
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 24,
+                    "refs": "",
+                    "d2": {
+                        "width": 189,
+                        "listId": 1,
+                        "stageY": 890.0000037536032,
+                        "stageX": 2181.0000024286237
+                    },
+                    "memo": "",
+                    "id": 28,
+                    "i2": 32,
+                    "d1": {
+                        "width": 109,
+                        "listId": 1,
+                        "stageY": 1244.9999882699897,
+                        "stageX": 2258.9999958457747
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 3,
+                    "refs": "",
+                    "d2": {
+                        "width": 189,
+                        "listId": 1,
+                        "stageY": 890.0000037536032,
+                        "stageX": 2181.0000024286237
+                    },
+                    "memo": "",
+                    "id": 29,
+                    "i2": 32,
+                    "d1": {
+                        "width": 269,
+                        "listId": 1,
+                        "stageY": 1131.9995279824466,
+                        "stageX": 1732.9999929058401
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 9,
+                    "refs": "",
+                    "d2": {
+                        "width": 115,
+                        "listId": 1,
+                        "stageY": 757.0000170476144,
+                        "stageX": 2228.000005432448
+                    },
+                    "memo": "",
+                    "id": 30,
+                    "i2": 27,
+                    "d1": {
+                        "width": 155,
+                        "listId": 1,
+                        "stageY": 787.9991433147381,
+                        "stageX": 1728.0000504259597
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 3,
+                    "refs": "",
+                    "d2": {
+                        "width": 284,
+                        "listId": 1,
+                        "stageY": 819.0000096186083,
+                        "stageX": 2382.0000100340512
+                    },
+                    "memo": "",
+                    "id": 31,
+                    "i2": 34,
+                    "d1": {
+                        "width": 269,
+                        "listId": 1,
+                        "stageY": 1131.9995279824466,
+                        "stageX": 1732.9999929058401
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 5,
+                    "refs": "",
+                    "d2": {
+                        "width": 284,
+                        "listId": 1,
+                        "stageY": 819.0000096186083,
+                        "stageX": 2382.0000100340512
+                    },
+                    "memo": "",
+                    "id": 32,
+                    "i2": 34,
+                    "d1": {
+                        "width": 240,
+                        "listId": 1,
+                        "stageY": 860.9992377026058,
+                        "stageX": 1505.9992162560886
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 10,
+                    "refs": "",
+                    "d2": {
+                        "width": 284,
+                        "listId": 1,
+                        "stageY": 819.0000096186083,
+                        "stageX": 2382.0000100340512
+                    },
+                    "memo": "",
+                    "id": 33,
+                    "i2": 34,
+                    "d1": {
+                        "width": 285,
+                        "listId": 1,
+                        "stageY": 916.9991619264214,
+                        "stageX": 1694.9996979553478
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 34,
+                    "refs": "",
+                    "d2": {
+                        "width": 115,
+                        "listId": 1,
+                        "stageY": 757.0000170476144,
+                        "stageX": 2228.000005432448
+                    },
+                    "memo": "",
+                    "id": 34,
+                    "i2": 27,
+                    "d1": {
+                        "width": 284,
+                        "listId": 1,
+                        "stageY": 819.0000096186083,
+                        "stageX": 2382.0000100340512
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 24,
+                    "refs": "",
+                    "d2": {
+                        "width": 284,
+                        "listId": 1,
+                        "stageY": 819.0000096186083,
+                        "stageX": 2382.0000100340512
+                    },
+                    "memo": "",
+                    "id": 35,
+                    "i2": 34,
+                    "d1": {
+                        "width": 109,
+                        "listId": 1,
+                        "stageY": 1244.9999882699897,
+                        "stageX": 2258.9999958457747
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 27,
+                    "refs": "",
+                    "d2": {
+                        "width": 110,
+                        "listId": 1,
+                        "stageY": 446.0000317492268,
+                        "stageX": 2366.000014060454
+                    },
+                    "memo": "",
+                    "id": 36,
+                    "i2": 26,
+                    "d1": {
+                        "width": 115,
+                        "listId": 1,
+                        "stageY": 757.0000170476144,
+                        "stageX": 2228.000005432448
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 32,
+                    "refs": "",
+                    "d2": {
+                        "width": 110,
+                        "listId": 1,
+                        "stageY": 446.0000317492268,
+                        "stageX": 2366.000014060454
+                    },
+                    "memo": "",
+                    "id": 37,
+                    "i2": 26,
+                    "d1": {
+                        "width": 189,
+                        "listId": 1,
+                        "stageY": 890.0000037536032,
+                        "stageX": 2181.0000024286237
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 36,
+                    "refs": "",
+                    "d2": {
+                        "width": 147,
+                        "listId": 1,
+                        "stageY": 538.9999989833992,
+                        "stageX": 2490.000003387291
+                    },
+                    "memo": "",
+                    "id": 38,
+                    "i2": 37,
+                    "d1": {
+                        "width": 245,
+                        "listId": 1,
+                        "stageY": 630.0000221306186,
+                        "stageX": 2562.9999862591017
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 37,
+                    "refs": "",
+                    "d2": {
+                        "width": 110,
+                        "listId": 1,
+                        "stageY": 446.0000317492268,
+                        "stageX": 2366.000014060454
+                    },
+                    "memo": "",
+                    "id": 39,
+                    "i2": 26,
+                    "d1": {
+                        "width": 147,
+                        "listId": 1,
+                        "stageY": 538.9999989833992,
+                        "stageX": 2490.000003387291
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 26,
+                    "refs": "",
+                    "d2": {
+                        "width": 202,
+                        "listId": 1,
+                        "stageY": 327.99999546439614,
+                        "stageX": 2312.000005368537
+                    },
+                    "memo": "",
+                    "id": 40,
+                    "i2": 38,
+                    "d1": {
+                        "width": 110,
+                        "listId": 1,
+                        "stageY": 446.0000317492268,
+                        "stageX": 2366.000014060454
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 38,
+                    "refs": "",
+                    "d2": {
+                        "width": 145,
+                        "listId": 1,
+                        "stageY": 138.0000029716025,
+                        "stageX": 2290.0000080528057
+                    },
+                    "memo": "",
+                    "id": 41,
+                    "i2": 39,
+                    "d1": {
+                        "width": 202,
+                        "listId": 1,
+                        "stageY": 327.99999546439614,
+                        "stageX": 2312.000005368537
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 38,
+                    "refs": "",
+                    "d2": {
+                        "width": 307,
+                        "listId": 1,
+                        "stageY": 239.99999851419875,
+                        "stageX": 2487.000000511289
+                    },
+                    "memo": "",
+                    "id": 42,
+                    "i2": 40,
+                    "d1": {
+                        "width": 202,
+                        "listId": 1,
+                        "stageY": 327.99999546439614,
+                        "stageX": 2312.000005368537
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 40,
+                    "refs": "",
+                    "d2": {
+                        "width": 145,
+                        "listId": 1,
+                        "stageY": 138.0000029716025,
+                        "stageX": 2290.0000080528057
+                    },
+                    "memo": "",
+                    "id": 43,
+                    "i2": 39,
+                    "d1": {
+                        "width": 307,
+                        "listId": 1,
+                        "stageY": 239.99999851419875,
+                        "stageX": 2487.000000511289
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 42,
+                    "refs": "",
+                    "d2": {
+                        "width": 325,
+                        "listId": 1,
+                        "stageY": 724.9999993743994,
+                        "stageX": 1881.000010737074
+                    },
+                    "memo": "",
+                    "id": 44,
+                    "i2": 43,
+                    "d1": {
+                        "width": 326,
+                        "listId": 1,
+                        "stageY": 1081.0000065688055,
+                        "stageX": 1997.9999480402314
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 43,
+                    "refs": "",
+                    "d2": {
+                        "width": 283,
+                        "listId": 1,
+                        "stageY": 650.0000350336293,
+                        "stageX": 1702.0000462077642
+                    },
+                    "memo": "",
+                    "id": 45,
+                    "i2": 25,
+                    "d1": {
+                        "width": 325,
+                        "listId": 1,
+                        "stageY": 724.9999993743994,
+                        "stageX": 1881.000010737074
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 43,
+                    "refs": "",
+                    "d2": {
+                        "width": 287,
+                        "listId": 1,
+                        "stageY": 490.9988402882185,
+                        "stageX": 1499.999605411792
+                    },
+                    "memo": "",
+                    "id": 46,
+                    "i2": 15,
+                    "d1": {
+                        "width": 325,
+                        "listId": 1,
+                        "stageY": 724.9999993743994,
+                        "stageX": 1881.000010737074
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 24,
+                    "refs": "",
+                    "d2": {
+                        "width": 268,
+                        "listId": 1,
+                        "stageY": 559.0000004692005,
+                        "stageX": 1982.000014124365
+                    },
+                    "memo": "",
+                    "id": 47,
+                    "i2": 44,
+                    "d1": {
+                        "width": 109,
+                        "listId": 1,
+                        "stageY": 1244.9999882699897,
+                        "stageX": 2258.9999958457747
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 43,
+                    "refs": "",
+                    "d2": {
+                        "width": 268,
+                        "listId": 1,
+                        "stageY": 559.0000004692005,
+                        "stageX": 1982.000014124365
+                    },
+                    "memo": "",
+                    "id": 48,
+                    "i2": 44,
+                    "d1": {
+                        "width": 325,
+                        "listId": 1,
+                        "stageY": 724.9999993743994,
+                        "stageX": 1881.000010737074
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 44,
+                    "refs": "",
+                    "d2": {
+                        "width": 287,
+                        "listId": 1,
+                        "stageY": 490.9988402882185,
+                        "stageX": 1499.999605411792
+                    },
+                    "memo": "",
+                    "id": 49,
+                    "i2": 15,
+                    "d1": {
+                        "width": 268,
+                        "listId": 1,
+                        "stageY": 559.0000004692005,
+                        "stageX": 1982.000014124365
+                    }
+                },
+                {
+                    "url": "",
+                    "visible": true,
+                    "i1": 45,
+                    "refs": "",
+                    "d2": {
+                        "width": 326,
+                        "listId": 1,
+                        "stageY": 1081.0000065688055,
+                        "stageX": 1997.9999480402314
+                    },
+                    "memo": "",
+                    "id": 50,
+                    "i2": 42,
+                    "d1": {
+                        "width": 189,
+                        "listId": 1,
+                        "stageY": 1352,
+                        "stageX": 2084
+                    }
+                }
+            ],
+            "hasEffect": []
+        }
+    },
+    "memo": "SSN project",
+    "name": "social activism #minority #diversity",
+    "u": "https://www.dfrome.com/select?id=893",
+    "username": "soph"
+}
