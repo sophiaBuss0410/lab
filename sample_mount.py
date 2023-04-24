@@ -41,8 +41,6 @@ for i in range(len(df)):
 # %%
 N = df["num"].sum()
 df["pot"] = -np.log(df["num"]/N)
-mou = -np.log(1/N)
-# df
 
 # %%
 rels = []
@@ -104,9 +102,17 @@ points = np.array([X, Y]).T
 # maximum of your X and Y. 50j indicates 50 discretization
 # points between the minimum and maximum.
 X_grid, Y_grid = np.mgrid[1:1000:100j, 1:1500:100j]
-# print(len(X_grid[0]))
-# interpolate your values on the grid defined above
-Z_grid = griddata(points, Z, (X_grid, Y_grid), method='cubic')
+
+Z_grid = np.zeros_like(X_grid)
+
+for n in range(len(df)):
+    chi = Z[n]
+    for i in range(100):
+        for j in range(100):
+            Z_grid[i][j] += 10* chi / np.sqrt(1 + ((X_grid[i][j] - X[n])**2 + (Y_grid[i][j] - Y[n])**2))
+
+
+# Z_grid = griddata(points, Z, (X_grid, Y_grid), method='cubic')
 
 ax2.plot_surface(X_grid, Y_grid, Z_grid, cmap=cm.coolwarm, 
                        linewidth=0, antialiased=True)
@@ -116,6 +122,6 @@ ax2.view_init(elev= 25, azim=40, roll=0)
 ax2.set_xlabel('Level')
 # ax2.set_ylabel('Y Label')
 ax2.set_zlabel('Z')
-plt.savefig("pot_network_%s.png" % file)
+plt.savefig("pot_mount_%s.png" % file)
 
 plt.show()
