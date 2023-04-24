@@ -1,4 +1,3 @@
-# %%
 import json
 import pandas as pd
 import numpy as np
@@ -25,7 +24,6 @@ lst = [[nodes[i]['id'], nodes[i]['fT'], nodes[i]['sT'], nodes[i]['pos']['y'], no
 df = pd.DataFrame(lst, columns =['id', 'fT', 'sT', 'x', 'y']) 
 # df.head()
 
-# %%
 num = np.random.randint(1, 10, len(df))
 # print(num)
 df["num"] = num
@@ -43,6 +41,7 @@ for i in range(len(df)):
 # %%
 N = df["num"].sum()
 df["pot"] = -np.log(df["num"]/N)
+mou = -np.log(1/N)
 # df
 
 # %%
@@ -105,6 +104,7 @@ points = np.array([X, Y]).T
 # maximum of your X and Y. 50j indicates 50 discretization
 # points between the minimum and maximum.
 X_grid, Y_grid = np.mgrid[1:1000:100j, 1:1500:100j]
+# print(len(X_grid[0]))
 # interpolate your values on the grid defined above
 Z_grid = griddata(points, Z, (X_grid, Y_grid), method='cubic')
 
