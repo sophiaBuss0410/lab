@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import networkx as nx
 import japanize_matplotlib
 
-file = 'id909'
+file = 'id893'
 json_open = open(file + '.json', 'r', encoding="utf-8")
 json_load = json.load(json_open)
 # print(json_load)
