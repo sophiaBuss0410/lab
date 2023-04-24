@@ -43,9 +43,13 @@ points = np.array([X, Y]).T
 # points between the minimum and maximum.
 X_grid, Y_grid = np.mgrid[1:1500:100j, 1:1500:100j]
 # interpolate your values on the grid defined above
-Z_grid = griddata(points, Z, (X_grid, Y_grid), method='nearest')
+Z_grid = griddata(points, Z, (X_grid, Y_grid), method='cubic')
 
-ax.plot_surface(X_grid, Y_grid, Z_grid, cmap=cm.coolwarm, 
+Z_d = np.nan_to_num(Z_grid)
+
+# print(Z_d[0])
+
+ax.plot_surface(X_grid, Y_grid, Z_d, cmap=cm.coolwarm, 
                        linewidth=1, antialiased=True)
 
 ax.view_init(elev=40, azim=20, roll=0)

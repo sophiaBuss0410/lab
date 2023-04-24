@@ -1,0 +1,444 @@
+{
+    "url": "",
+    "tree_id": 915,
+    "bookmark": false,
+    "refs": "",
+    "data": {
+        "items": {
+            "artifacts": [
+                {
+                    "width": 30,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "RS1",
+                    "memo": "",
+                    "id": 1,
+                    "sT": "",
+                    "pos": {
+                        "x": 569,
+                        "y": 943
+                    }
+                },
+                {
+                    "width": 30,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "RS2",
+                    "memo": "",
+                    "id": 2,
+                    "sT": "",
+                    "pos": {
+                        "x": 421.000009906229,
+                        "y": 748.9999992179993
+                    }
+                },
+                {
+                    "width": 30,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "RS3",
+                    "memo": "",
+                    "id": 3,
+                    "sT": "",
+                    "pos": {
+                        "x": 563.9999984661322,
+                        "y": 525.9999982013984
+                    }
+                },
+                {
+                    "width": 30,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "RS4",
+                    "memo": "",
+                    "id": 4,
+                    "sT": "",
+                    "pos": {
+                        "x": 620.9999961014198,
+                        "y": 327.99999882699905
+                    }
+                },
+                {
+                    "width": 30,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "RS5",
+                    "memo": "",
+                    "id": 5,
+                    "sT": "",
+                    "pos": {
+                        "x": 569,
+                        "y": 101
+                    }
+                },
+                {
+                    "width": 29,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "BS1",
+                    "memo": "",
+                    "id": 6,
+                    "sT": "",
+                    "pos": {
+                        "x": 1145.0000012143119,
+                        "y": 936.9999987487989
+                    }
+                },
+                {
+                    "width": 29,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "BS2",
+                    "memo": "",
+                    "id": 7,
+                    "sT": "",
+                    "pos": {
+                        "x": 1146.9999998721778,
+                        "y": 746.9999973411977
+                    }
+                },
+                {
+                    "width": 29,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "BS3",
+                    "memo": "",
+                    "id": 8,
+                    "sT": "",
+                    "pos": {
+                        "x": 1144.9999994247996,
+                        "y": 538.9999958553964
+                    }
+                },
+                {
+                    "width": 29,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "BS4",
+                    "memo": "",
+                    "id": 9,
+                    "sT": "",
+                    "pos": {
+                        "x": 974.0000109288076,
+                        "y": 307.9999989833991
+                    }
+                },
+                {
+                    "width": 29,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "BS5",
+                    "memo": "",
+                    "id": 10,
+                    "sT": "",
+                    "pos": {
+                        "x": 1142.999999936089,
+                        "y": 98.99999851419875
+                    }
+                },
+                {
+                    "width": 32,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "RS2'",
+                    "memo": "",
+                    "id": 11,
+                    "sT": "",
+                    "pos": {
+                        "x": 757.9999941201738,
+                        "y": 744.9999998435999
+                    }
+                },
+                {
+                    "width": 32,
+                    "url": "",
+                    "visible": true,
+                    "refs": "",
+                    "fT": "BS4'",
+                    "memo": "",
+                    "id": 12,
+                    "sT": "",
+                    "pos": {
+                        "x": 1319.9999948231966,
+                        "y": 309.99999992179994
+                    }
+                }
+            ],
+            "reasons": [],
+            "effects": []
+        },
+        "arrows": {
+            "hasReason": [],
+            "hasArtifactsOnly": [
+                {
+                    "url": "",
+                    "d1": {
+                        "listId": 1,
+                        "width": 30,
+                        "stageY": 996,
+                        "stageX": 1533
+                    },
+                    "i1": 1,
+                    "refs": "",
+                    "d2": {
+                        "listId": 1,
+                        "width": 30,
+                        "stageY": 801.9999992179993,
+                        "stageX": 1385.000009906229
+                    },
+                    "memo": "",
+                    "id": 1,
+                    "visible": true,
+                    "i2": 2
+                },
+                {
+                    "url": "",
+                    "d1": {
+                        "listId": 1,
+                        "width": 30,
+                        "stageY": 801.9999992179993,
+                        "stageX": 1385.000009906229
+                    },
+                    "i1": 2,
+                    "refs": "",
+                    "d2": {
+                        "listId": 1,
+                        "width": 30,
+                        "stageY": 578.9999982013984,
+                        "stageX": 1527.9999984661322
+                    },
+                    "memo": "",
+                    "id": 2,
+                    "visible": true,
+                    "i2": 3
+                },
+                {
+                    "url": "",
+                    "d1": {
+                        "listId": 1,
+                        "width": 30,
+                        "stageY": 578.9999982013984,
+                        "stageX": 1527.9999984661322
+                    },
+                    "i1": 3,
+                    "refs": "",
+                    "d2": {
+                        "listId": 1,
+                        "width": 30,
+                        "stageY": 380.99999882699905,
+                        "stageX": 1584.9999961014198
+                    },
+                    "memo": "",
+                    "id": 3,
+                    "visible": true,
+                    "i2": 4
+                },
+                {
+                    "url": "",
+                    "d1": {
+                        "listId": 1,
+                        "width": 30,
+                        "stageY": 380.99999882699905,
+                        "stageX": 1584.9999961014198
+                    },
+                    "i1": 4,
+                    "refs": "",
+                    "d2": {
+                        "listId": 1,
+                        "width": 30,
+                        "stageY": 154,
+                        "stageX": 1533
+                    },
+                    "memo": "",
+                    "id": 4,
+                    "visible": true,
+                    "i2": 5
+                },
+                {
+                    "url": "",
+                    "d1": {
+                        "listId": 1,
+                        "width": 29,
+                        "stageY": 989.9999987487989,
+                        "stageX": 2109.000001214312
+                    },
+                    "i1": 6,
+                    "refs": "",
+                    "d2": {
+                        "listId": 1,
+                        "width": 29,
+                        "stageY": 799.9999973411977,
+                        "stageX": 2110.999999872178
+                    },
+                    "memo": "",
+                    "id": 5,
+                    "visible": true,
+                    "i2": 7
+                },
+                {
+                    "url": "",
+                    "d1": {
+                        "listId": 1,
+                        "width": 29,
+                        "stageY": 799.9999973411977,
+                        "stageX": 2110.999999872178
+                    },
+                    "i1": 7,
+                    "refs": "",
+                    "d2": {
+                        "listId": 1,
+                        "width": 29,
+                        "stageY": 591.9999958553964,
+                        "stageX": 2108.9999994247996
+                    },
+                    "memo": "",
+                    "id": 6,
+                    "visible": true,
+                    "i2": 8
+                },
+                {
+                    "url": "",
+                    "d1": {
+                        "listId": 1,
+                        "width": 29,
+                        "stageY": 591.9999958553964,
+                        "stageX": 2108.9999994247996
+                    },
+                    "i1": 8,
+                    "refs": "",
+                    "d2": {
+                        "listId": 1,
+                        "width": 29,
+                        "stageY": 360.9999989833991,
+                        "stageX": 1938.0000109288076
+                    },
+                    "memo": "",
+                    "id": 7,
+                    "visible": true,
+                    "i2": 9
+                },
+                {
+                    "url": "",
+                    "d1": {
+                        "listId": 1,
+                        "width": 29,
+                        "stageY": 360.9999989833991,
+                        "stageX": 1938.0000109288076
+                    },
+                    "i1": 9,
+                    "refs": "",
+                    "d2": {
+                        "listId": 1,
+                        "width": 29,
+                        "stageY": 151.99999851419875,
+                        "stageX": 2106.999999936089
+                    },
+                    "memo": "",
+                    "id": 8,
+                    "visible": true,
+                    "i2": 10
+                },
+                {
+                    "url": "",
+                    "d1": {
+                        "listId": 1,
+                        "width": 30,
+                        "stageY": 996,
+                        "stageX": 1533
+                    },
+                    "i1": 1,
+                    "refs": "",
+                    "d2": {
+                        "listId": 1,
+                        "width": 32,
+                        "stageY": 797.9999998435999,
+                        "stageX": 1721.9999941201738
+                    },
+                    "memo": "",
+                    "id": 9,
+                    "visible": true,
+                    "i2": 11
+                },
+                {
+                    "url": "",
+                    "d1": {
+                        "listId": 1,
+                        "width": 32,
+                        "stageY": 797.9999998435999,
+                        "stageX": 1721.9999941201738
+                    },
+                    "i1": 11,
+                    "refs": "",
+                    "d2": {
+                        "listId": 1,
+                        "width": 30,
+                        "stageY": 578.9999982013984,
+                        "stageX": 1527.9999984661322
+                    },
+                    "memo": "",
+                    "id": 10,
+                    "visible": true,
+                    "i2": 3
+                },
+                {
+                    "url": "",
+                    "d1": {
+                        "listId": 1,
+                        "width": 29,
+                        "stageY": 591.9999958553964,
+                        "stageX": 2108.9999994247996
+                    },
+                    "i1": 8,
+                    "refs": "",
+                    "d2": {
+                        "listId": 1,
+                        "width": 32,
+                        "stageY": 362.99999992179994,
+                        "stageX": 2283.9999948231966
+                    },
+                    "memo": "",
+                    "id": 11,
+                    "visible": true,
+                    "i2": 12
+                },
+                {
+                    "url": "",
+                    "d1": {
+                        "listId": 1,
+                        "width": 32,
+                        "stageY": 362.99999992179994,
+                        "stageX": 2283.9999948231966
+                    },
+                    "i1": 12,
+                    "refs": "",
+                    "d2": {
+                        "listId": 1,
+                        "width": 29,
+                        "stageY": 151.99999851419875,
+                        "stageX": 2106.999999936089
+                    },
+                    "memo": "",
+                    "id": 12,
+                    "visible": true,
+                    "i2": 10
+                }
+            ],
+            "hasEffect": []
+        }
+    },
+    "memo": "",
+    "name": "bs rs try 0418",
+    "u": "https://www.dfrome.com/select?id=915",
+    "username": "soph"
+}

@@ -1,11 +1,14 @@
+# %%
 import json
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import networkx as nx
-import japanize_matplotlib
+from mpl_toolkits.mplot3d import axes3d
+from scipy.interpolate import griddata
+import matplotlib.cm as cm
 
-file = 'id893'
+file = 'sample'
 json_open = open(file + '.json', 'r', encoding="utf-8")
 json_load = json.load(json_open)
 # print(json_load)
@@ -18,19 +21,38 @@ nodes = d["data"]["items"]["artifacts"]
 # エッジ情報
 arr = d["data"]["arrows"]["hasArtifactsOnly"]
 
-lst = [[nodes[i]['id'], nodes[i]['fT'], nodes[i]['pos']['y'], nodes[i]['pos']['x']] for i in range(len(nodes))]
-df = pd.DataFrame(lst, columns =['id', 'fT',  'x', 'y']) #, dtype = float) 
+lst = [[nodes[i]['id'], nodes[i]['fT'], nodes[i]['sT'], nodes[i]['pos']['y'], nodes[i]['pos']['x']] for i in range(len(nodes))]
+df = pd.DataFrame(lst, columns =['id', 'fT', 'sT', 'x', 'y']) 
 # df.head()
 
-# 仮想的な指標を付与
-num = np.random.randint(1, 10, len(df))
+# %%
+num = np.random.randint(1, 10, 12)
+# print(num)
 df["num"] = num
+# print(df)
 
-# グラフの作成
+tf_r = df["fT"].str.contains("RS").to_list()
+# tf_b = df["fT"].str.contains("BS").to_list()
+
+for i in range(len(df)):
+    if tf_r[i]:
+        df.iloc[i, 5] = np.random.randint(6, 10)
+    else:
+        df.iloc[i, 5] = np.random.randint(1, 6)
+
+# %%
+N = df["num"].sum()
+df["pot"] = -np.log(df["num"]/N)
+# df
+
+# %%
 rels = []
 
 for i in range(len(arr)):
   rels.append([arr[i]["i1"], arr[i]["i2"]])
+
+# %%
+# グラフの作成
 
 G = nx.Graph()
 G.add_edges_from(rels)
@@ -73,11 +95,31 @@ width = 20
 depth = 20
 ax2.bar3d(x, y, bottom, width, depth, top, shade=False)
 # ax2.set_title('支持者数')
-ax2.view_init(elev= 25, azim=15, roll=0)
+
+# surface plot code
+X, Y, Z = df["x"], df["y"], df["pot"]
+
+points = np.array([X, Y]).T
+
+# create a grid of coordinates between the minimum and
+# maximum of your X and Y. 50j indicates 50 discretization
+# points between the minimum and maximum.
+X_grid, Y_grid = np.mgrid[1:1000:100j, 1:1500:100j]
+# interpolate your values on the grid defined above
+Z_grid = griddata(points, Z, (X_grid, Y_grid), method='cubic')
+
+Z_d = np.nan_to_num(Z_grid)
+
+ax2.plot_surface(X_grid, Y_grid, Z_d, cmap=cm.coolwarm, 
+                       linewidth=0, antialiased=True)
+
+ax2.view_init(elev= 25, azim=40, roll=0)
 
 ax2.set_xlabel('Level')
 # ax2.set_ylabel('Y Label')
 ax2.set_zlabel('Z')
-plt.savefig("3d_vis_%s.png" % file)
+plt.savefig("pot_network_zero_%s.png" % file)
 
 plt.show()
+
+
