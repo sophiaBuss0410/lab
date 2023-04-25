@@ -8,7 +8,7 @@ from mpl_toolkits.mplot3d import axes3d
 from scipy.interpolate import griddata
 import matplotlib.cm as cm
 
-file = 'sample'
+file = 'sample_br'
 json_open = open(file + '.json', 'r', encoding="utf-8")
 json_load = json.load(json_open)
 # print(json_load)

@@ -45,11 +45,7 @@ X_grid, Y_grid = np.mgrid[1:1500:100j, 1:1500:100j]
 # interpolate your values on the grid defined above
 Z_grid = griddata(points, Z, (X_grid, Y_grid), method='cubic')
 
-Z_d = np.nan_to_num(Z_grid)
-
-# print(Z_d[0])
-
-ax.plot_surface(X_grid, Y_grid, Z_d, cmap=cm.coolwarm, 
+ax.plot_surface(X_grid, Y_grid, Z_grid, cmap=cm.coolwarm, 
                        linewidth=1, antialiased=True)
 
 ax.view_init(elev=40, azim=20, roll=0)
