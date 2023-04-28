@@ -1,0 +1,105 @@
+﻿{
+  "InputText": "'Privileged students be in campus',\n'Indifferent students be in campus',\n'The built teams become inactive',\n'Being an activist become a stigma',\n'Students who are interested but cannot raise voices be in campus',\n'Some students get discouraged in the daily life',\n'Other students show little interest in changing the circumstances',\n'The society does not value the importance of activism',\n'The student activists become less motivated',\n'Student activism fail to achieve a chage in campus',\n'The society do not become diverse',\n'Many students do not have access to knowledge about social justice',\n'Professors who are concious about the problems in campus be in power',\n'Professors build an educational course about diversity and inclusion',\n'Indifferent students take D&I courses for credits or their popularity',\n'Academic field for minority studies exist'",
+  "detectedLanguage": {
+    "name": "English",
+    "id": "en",
+    "score": 0.99
+  },
+  "sentimentTasks": {
+    "sentiment": "negative",
+    "confidenceScores": {
+      "positive": 0.0,
+      "neutral": 1.0,
+      "negative": 99.0
+    },
+    "sentences": [
+      {
+        "text": "'Privileged students be in campus',  'Indifferent students be in campus',  'The built teams become inactive',  'Being an activist become a stigma',  'Students who are interested but cannot raise voices be in campus',  'Some students get discouraged in the daily life',  'Other students show little interest in changing the circumstances',  'The society does not value the importance of activism',  'The student activists become less motivated',  'Student activism fail to achieve a chage in campus',  'The society do not become diverse',  'Many students do not have access to knowledge about social justice',  'Professors who are concious about the problems in campus be in power',  'Professors build an educational course about diversity and inclusion',  'Indifferent students take D&I courses for credits or their popularity',  'Academic field for minority studies exist'",
+        "confidenceScores": {
+          "positive": 0.0,
+          "neutral": 0.01,
+          "negative": 0.99
+        }
+      }
+    ]
+  },
+  "summarizationTasks": {
+    "sentences": [
+      {
+        "text": "'Professors build an educational course about diversity and inclusion',",
+        "rankScore": 1.0
+      },
+      {
+        "text": "'Students who are interested but cannot raise voices be in campus',",
+        "rankScore": 0.87
+      },
+      {
+        "text": "'Many students do not have access to knowledge about social justice',",
+        "rankScore": 0.87
+      },
+      {
+        "text": "'Privileged students be in campus',",
+        "rankScore": 0.82
+      },
+      {
+        "text": "'Indifferent students be in campus',",
+        "rankScore": 0.8
+      },
+      {
+        "text": "'The society does not value the importance of activism',",
+        "rankScore": 0.66
+      },
+      {
+        "text": "'Some students get discouraged in the daily life',",
+        "rankScore": 0.59
+      },
+      {
+        "text": "'Professors who are concious about the problems in campus be in power',",
+        "rankScore": 0.48
+      },
+      {
+        "text": "'Being an activist become a stigma',",
+        "rankScore": 0.4
+      },
+      {
+        "text": "'Student activism fail to achieve a chage in campus',",
+        "rankScore": 0.4
+      }
+    ]
+  },
+  "keyPhraseTasks": {
+    "keyPhrases": [
+      "D&I courses",
+      "daily life",
+      "little interest",
+      "student activists",
+      "Student activism",
+      "social justice",
+      "educational course",
+      "Academic field",
+      "minority studies",
+      "Privileged students",
+      "Indifferent students",
+      "Other students",
+      "Many students",
+      "campus",
+      "teams",
+      "stigma",
+      "voices",
+      "circumstances",
+      "society",
+      "importance",
+      "chage",
+      "access",
+      "knowledge",
+      "Professors",
+      "problems",
+      "power",
+      "diversity",
+      "inclusion",
+      "credits",
+      "popularity"
+    ],
+    "keyPhraseString": "D&I courses, daily life, little interest, student activists, Student activism, social justice, educational course, Academic field, minority studies, Privileged students, Indifferent students, Other students, Many students, campus, teams, stigma, voices, circumstances, society, importance, chage, access, knowledge, Professors, problems, power, diversity, inclusion, credits, popularity"
+  }
+}

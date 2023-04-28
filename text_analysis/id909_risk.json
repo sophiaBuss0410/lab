@@ -1,0 +1,69 @@
+﻿{
+  "InputText": "Unconscious bias prevails',\n'Science and engineering women remain minor',\n'Women are said not suited for science.',\n'Parents and teachers promote liberal arts to female middle and high school students.',\n'the number of women in science and engineering remain to be low',\n'Young girls internalize the stereotype',\n'Young girls get knowledge about wrong stereotypes',\n'Science be associated with men',\n'Women be assiciated with care and domestic work",
+  "detectedLanguage": {
+    "name": "English",
+    "id": "en",
+    "score": 0.97
+  },
+  "sentimentTasks": {
+    "sentiment": "negative",
+    "confidenceScores": {
+      "positive": 0.0,
+      "neutral": 0.0,
+      "negative": 99.0
+    },
+    "sentences": [
+      {
+        "text": "Unconscious bias prevails',  'Science and engineering women remain minor',  'Women are said not suited for science.',  'Parents and teachers promote liberal arts to female middle and high school students.',  'the number of women in science and engineering remain to be low',  'Young girls internalize the stereotype',  'Young girls get knowledge about wrong stereotypes',  'Science be associated with men',  'Women be assiciated with care and domestic work",
+        "confidenceScores": {
+          "positive": 0.0,
+          "neutral": 0.0,
+          "negative": 0.99
+        }
+      }
+    ]
+  },
+  "summarizationTasks": {
+    "sentences": [
+      {
+        "text": "'the number of women in science and engineering remain to be low',",
+        "rankScore": 1.0
+      },
+      {
+        "text": "'Parents and teachers promote liberal arts to female middle and high school students.',",
+        "rankScore": 0.56
+      },
+      {
+        "text": "'Women are said not suited for science.',",
+        "rankScore": 0.54
+      },
+      {
+        "text": "Unconscious bias prevails',",
+        "rankScore": 0.44
+      },
+      {
+        "text": "'Science and engineering women remain minor',",
+        "rankScore": 0.41
+      }
+    ]
+  },
+  "keyPhraseTasks": {
+    "keyPhrases": [
+      "high school students",
+      "Unconscious bias",
+      "liberal arts",
+      "female middle",
+      "Young girls",
+      "wrong stereotypes",
+      "domestic work",
+      "engineering women",
+      "Science",
+      "Parents",
+      "teachers",
+      "number",
+      "knowledge",
+      "care"
+    ],
+    "keyPhraseString": "high school students, Unconscious bias, liberal arts, female middle, Young girls, wrong stereotypes, domestic work, engineering women, Science, Parents, teachers, number, knowledge, care"
+  }
+}
