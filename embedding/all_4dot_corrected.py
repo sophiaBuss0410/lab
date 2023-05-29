@@ -35,13 +35,16 @@ vectors = vectors[:, args]
 new_vectors = vectors[:,:2]
 
 # Projecting it onto new dimesion with 2 axis
-neww_X = np.real(np.dot(vec, new_vectors))
+neww_X = np.dot(vec, new_vectors)
+# 虚部の削除
+neww_X = np.real(neww_X)
+neww_X
 
 # Importing survey data
-data = pd.read_excel('embedding\domestic.xlsx')
+data = pd.read_excel('embedding\domestic_updated.xlsx')
 
 # Plotting
-fig, axes = plt.subplots(3, 4, figsize=(15,15), subplot_kw={'projection': '3d'})
+fig, axes = plt.subplots(3, 4, figsize=(16,16), dpi=150, subplot_kw={'projection': '3d'})
 
 # Initializing index
 h = 0
@@ -49,15 +52,15 @@ h = 0
 for i in range(3):
     for j in range(4):
 
-        axes[i][j].scatter(neww_X[:,0], neww_X[:,1], [0,0,0,0], linewidths=1,color='blue')
-        vocab=op
-        for k, word in enumerate(vocab):
-            axes[i][j].text(neww_X[k,0], neww_X[k,1], 0, word[:10], zdir=None)
+        axes[i][j].scatter(neww_X[:,0], neww_X[:,1], [0,0,0,0], linewidths=1,color='yellow')
+        # vocab=op
+        jp = ['賛成', 'やや賛成', 'やや反対', '反対']
+        for k, word in enumerate(jp):
+            axes[i][j].text(neww_X[k,0]+0.01, neww_X[k,1]+0.01, 0, word, zdir=None)
 
         # calculate potential
         year1979 = pd.DataFrame({data.iloc[h, 0] : data.iloc[h, 1:]})
-        year1979['pot'] = -np.log(year1979.iloc[:, 0].astype(np.float64))
-        print(year1979['pot'], "一人の値", -np.log(1), "百人の値", -np.log(100))
+        year1979['pot'] = -np.log(year1979.iloc[:, 0].astype(np.float64)/100)
 
         # bar graph code
         x, y, z = neww_X[:,0], neww_X[:,1], year1979.iloc[:-1, 0].astype(np.float64).tolist()
@@ -67,13 +70,17 @@ for i in range(3):
         width = 0.01
         depth = 0.01
         axes[i][j].bar3d(x, y, bottom, width, depth, top, shade=True)
-        axes[i][j].set_title(data.iloc[h, 0])
+        axes[i][j].set_title(data.iloc[h, 0])#, size=20)
         h += 1
 
         ## surface plot code
         # border condition
+        # dum = [-0.4, 0.4, -0.4, 0.4]
+        # dumy = [-0.4, 0.4, 0.4, -0.4]
+        
         dum = [-0.2, 0.2, -0.2, 0.2]
         dumy = [-0.2, 0.2, 0.2, -0.2]
+
 
         xx = neww_X[:,0].tolist()
         yy = neww_X[:,1].tolist()
@@ -85,7 +92,7 @@ for i in range(3):
         zz = 10*year1979.iloc[:-1, 1]
         zz = zz.to_list()
         for m in range(len(dum)):
-            zz.append(-np.log(100))
+            zz.append(-10*np.log(1/100))
         
         X, Y, Z = xx, yy, zz
 
@@ -101,18 +108,20 @@ for i in range(3):
         axes[i][j].plot_surface(X_grid, Y_grid, Z_grid, cmap=cm.coolwarm, 
                             linewidth=0, antialiased=True, alpha=.7)
 
-        # axes[i][j].set_ylim(-0.5, 0.5)
-        # axes[i][j].set_zlim(0, 50)
+        # axes[i][j].set_zlim(0, 45)
+        # axes[i][j].set_xticks([-0.2, 0, 0.2])
+        # axes[i][j].set_yticks([-0.2, 0, 0.2])
 
-        axes[i][j].view_init(elev= 25, azim=280, roll=0)
+        axes[i][j].view_init(elev=40, azim=280, roll=0)
 
-        axes[i][j].set_xlabel("PC1")
-        axes[i][j].set_ylabel("PC2")
-        axes[i][j].set_zlabel("Z (%)")
+        # axes[i][j].set_xlabel("主成分1", size=12)
+        # axes[i][j].set_ylabel("主成分2", size=12)
+        # axes[i][j].set_zlabel("\n回答者の割合 (%), \nポテンシャル*10", size=15)
 
-        if h == 11:
+        if h == 12:
             break
 
-# plt.savefig('embedding/fig/all.png')
-plt.show()
+plt.subplots_adjust(wspace=0.2, hspace=0)
+plt.savefig('embedding/all_4dots_corrected.png', bbox_inches='tight', pad_inches=0.5)
+# plt.show()
 
