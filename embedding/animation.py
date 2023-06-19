@@ -7,7 +7,7 @@ import matplotlib.animation as animation
 ## 参考：https://rightcode.co.jp/blog/information-technology/python-artistanimation-creating-animations-multiple-diagrams
 
 #フォルダ名を入れます 
-folderName = 'embedding/fig'
+folderName = 'embedding/fig_corrected'
 
 #該当フォルダから画像のリストを取得。読み込みたいファイル形式を指定。ここではpng 
 picList = glob.glob(folderName + '/*.png')
@@ -47,4 +47,4 @@ ani = animation.ArtistAnimation(fig, ims, interval=800)
 # 参考：https://novnote.com/matplotlib-animation-ffmpeg/468/#matplotlibrc
 
 #アニメーション保存
-ani.save("embedding/all_4dots_jp.mp4", writer="ffmpeg", dpi=300)
+ani.save("embedding/contour_corrected_angled.mp4", writer="ffmpeg", dpi=300)
